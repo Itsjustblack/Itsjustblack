@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itsjustblack
 - 👀 I’m interested in Web Development and Table Tennis
-- 🌱 I’m currently learning FrontEnd Development (HTML, CSS, Javascript, PHP)
+- 🌱 I’m currently learning FrontEnd Development (React.js, Tailwind CSS, Next.js)
 - 💞️ I’m looking to collaborate on Projects with other Developers
 
 <!---
